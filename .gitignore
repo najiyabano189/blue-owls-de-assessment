@@ -8,3 +8,7 @@ submission/output/
 *.csv
 *.crc
 _SUCCESS
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
