@@ -2,3 +2,9 @@ __pycache__
 .env
 .vscode/*
 .venv
+
+# Output data files — pipeline generates these fresh from the API
+submission/output/
+*.csv
+*.crc
+_SUCCESS
